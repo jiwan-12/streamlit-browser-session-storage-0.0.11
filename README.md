@@ -1,7 +1,8 @@
 # Streamlit sessionBrowser storage
 This library fix the bug seen in version 0.0.10
-    Details: There was and exception if the key in the session storage in invalid json key.
-    The Error was seen in browser console of the streamlit application as JSON Parsing error
+
+
+**Bug details:** There was and exception if the key in the session storage is invalid json key. The exception was seen in browser console of the streamlit application as JSON Parsing error
 
 This repo is to help streamlt users manage data in a browser's sessionBrowser storage.
 Built on the `use-session-storage-state` that allows for real time updates especially important when sessionBrowser storage item is deleted.
