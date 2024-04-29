@@ -7,6 +7,9 @@ This library fix the bug seen in version 0.0.10
 This repo is to help streamlt users manage data in a browser's sessionBrowser storage.
 Built on the `use-session-storage-state` that allows for real time updates especially important when sessionBrowser storage item is deleted.
 
+old version is found in:
+`https://socket.dev/pypi/package/streamlit-browser-session-storage`
+
 for more details:
 `https://www.npmjs.com/package/use-session-storage-state`
 
