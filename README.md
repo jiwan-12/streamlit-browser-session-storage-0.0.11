@@ -12,11 +12,6 @@ for more details:
 
 
 ```
-pip install streamlit-browser-session-storage
-```
-
-
-```
 from streamlit_session_browser_storage import SessionStorage
 sessionBrowserS = SessionStorage()
 ```
